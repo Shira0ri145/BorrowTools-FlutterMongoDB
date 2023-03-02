@@ -1,17 +1,24 @@
-# Welcome to Softdev2 repository!
+# Welcome to My Database class repository!
 
 ## My Teams
 
-Sirapop Huangwilai 6401012630132                                      
-[![Github Badge](https://img.shields.io/badge/-sirapopModel-333?style=flat&logo=Github&logoColor=white)](https://github.com/sirapopModel)
+ณัฐภัทร ทรัพย์ไหลมา 6301012620120
 
-Jedsada Srijunpoe 6401012620170                                  
-[![Github Badge](https://img.shields.io/badge/-JedsadaSrijunpoe-333?style=flat&logo=Github&logoColor=white)](https://github.com/JedsadaSrijunpoe)
+ณชนน เอี่ยมศรีเจริญ 6301012610027
 
+ณัฐชนนท์ ตรีรัตนนุกูล 6301012620031
+
+ทวีสุข สุทวีทรัพย์ 6301012630044
+
+สรวิชญ์ ตั้งศรีไพโรจน์ 6301012630176
+
+อธิบดี หริ่งเจริญ
 Athibdee Ringcharoen 6401012620153                                    
 [![Github Badge](https://img.shields.io/badge/-Athibdee-333?style=flat&logo=Github&logoColor=white)](https://github.com/Athibdee)
 
-Theethawach Watthanakrai 6401012620269                               
-[![Github Badge](https://img.shields.io/badge/-TheethawachW.-333?style=flat&logo=Github&logoColor=white)](https://github.com/kimzaooza)
+นภวรรณ นาคะสุวรรณ 6401012620048
 
+ไอยศิริ ศรีอุทัย 6401012620251
+
+ปัญจพล ปิ่นภู่ 6401012630094
 #
