@@ -19,5 +19,5 @@
 Athibdee Ringcharoen 6401012620153    [ Font-END , View Management ]                             
 [![Github Badge](https://img.shields.io/badge/-Athibdee-333?style=flat&logo=Github&logoColor=white)](https://github.com/Athibdee)
 
-ปัญจพล ปิ่นภู่ 6401012630094    [ Font-END ]
+ปัญจพล ปิ่นภู่ 6401012630094    [ Font-END , View Management ]
 #
